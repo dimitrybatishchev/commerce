@@ -1,0 +1,7 @@
+parameters:
+#    burrito_commerce.example.class: Burrito\Bundle\CommerceBundle\Example
+
+services:
+#    burrito_commerce.example:
+#        class: %burrito_commerce.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
